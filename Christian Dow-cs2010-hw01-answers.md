@@ -23,7 +23,7 @@ Answer: 101
                        1100
 **Question 2: Convert the decimal number 12 to binary by repeatedly subtracting
 out the largest power of two.**
-
+2^3=8 outcome is 4 | 2^2=4 outcome is 0
 **Question 3:  Convert the decimal number 27 to binary using repeated division.**
 
 **Question 4:  Convert the decimal number 45 to binary by repeatedly subtracting out the largest power of two.**
