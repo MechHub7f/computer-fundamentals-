@@ -16,8 +16,11 @@ We take the remainders in reverse order.
 Answer: 101
 
 **Question 1: Convert the decimal number 12 to binary using repeated division.**
-
-
+12/2=6 0
+6/2=3  0
+3/2=1 remander 1
+1/2 = 0 remainder 1
+                       1100
 **Question 2: Convert the decimal number 12 to binary by repeatedly subtracting
 out the largest power of two.**
 
