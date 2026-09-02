@@ -22,20 +22,47 @@ Answer: 101
 1/2 = 0 remainder 1
                        1100
 **Question 2: Convert the decimal number 12 to binary by repeatedly subtracting
-out the largest power of two.**
-2^3=8 outcome is 4 | 2^2=4 outcome is 0
+out the largest power of two.**1100
+2^1=2 2^2=4 2^3=8 2^4=16 ||  
+12-8 so 0
+4-4 so 0
+0-1 so 1
+0-0 so 1
 **Question 3:  Convert the decimal number 27 to binary using repeated division.**
-
+011011
+27/2 =17 remander of 1
+16/2=8 remeander of 0
+8/2 remenader of 0
+4/2 remeander of 0
+2/2 remeander of 0
+1/2 remander of 1
 **Question 4:  Convert the decimal number 45 to binary by repeatedly subtracting out the largest power of two.**
-
+0101101
 **Question 5:  Convert the binary number 1011 to decimal.**
-
+1x8 8+2+1=11
+0x4
+1x2
+1x1
 **Question 6:  Convert the binary number 11011 to decimal.**
-
+1
+1
+0
+1
+1
 **Question 7:  Convert the binary number 100101 to decimal.**
-
+1
+0
+0
+1
+0
+1
 **Question 8:  Convert the binary number 111001 to decimal.**
-
+1
+1
+1
+0
+0
+1
 **Question 9:  Convert the decimal number 45 to hexadecimal.**
 
 **Question 10:  Convert the decimal number 255 to hexadecimal.**
