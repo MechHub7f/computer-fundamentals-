@@ -38,6 +38,10 @@ out the largest power of two.**1100
 1/2 remander of 1
 **Question 4:  Convert the decimal number 45 to binary by repeatedly subtracting out the largest power of two.**
 0101101
+45-32=13
+13-8=5
+5-4=1
+1-1=0
 **Question 5:  Convert the binary number 1011 to decimal.**
 1x8 8+2+1=11
 0x4
