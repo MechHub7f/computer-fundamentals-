@@ -98,12 +98,49 @@ out the largest power of two.**1100
 **Question 16:  Convert the octal number 74 to decimal.**
 
 **Question 17:  Convert the binary number 11010111 to hexadecimal.**
-
+1 1
+2 1
+4 1
+8 0
+16 1
+32 0
+64 1
+128 1
+128+64+16+4+2+1=215
 **Question 18:  Convert the binary number 10011100 to hexadecimal.**
-
+1 0
+2 0
+4 1
+8 1
+16 1
+32 0
+64 0
+128 1
+128+16+8+4=156
 **Question 19:  Convert the hexadecimal number 3D to binary.**
+1
+2
+4
+8
+16
+32
+64
 
 **Question 20:  Convert the hexadecimal number 9A to binary.**
+1
+2
+4
+8
+16
+32
+64
 
 **Question 21:  Convert the binary number 100111 to base 7.**
+1
+2
+4
+8
+16
+32
+64
 
