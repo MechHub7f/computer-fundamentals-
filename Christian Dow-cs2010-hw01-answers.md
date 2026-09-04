@@ -55,29 +55,32 @@ out the largest power of two.**1100
 64
 8+2+1=11
 **Question 6:  Convert the binary number 11011 to decimal.**
-1
-2
-4
-8
-16
+1 1
+2 1
+4 0
+8 1
+16 1
 32
 64
+16+8+2+1=27
 **Question 7:  Convert the binary number 100101 to decimal.**
-1
-2
-4
-8
-16
-32
+1 1
+2 0
+4 1
+8 0
+16 0
+32 1
 64
+32+4+1=37
 **Question 8:  Convert the binary number 111001 to decimal.**
-1
-2
-4
-8
-16
-32
+1 1
+2 0
+4 0
+8 1
+16 1
+32 1
 64
+32+16+8+1= 57
 **Question 9:  Convert the decimal number 45 to hexadecimal.**
 
 **Question 10:  Convert the decimal number 255 to hexadecimal.**
