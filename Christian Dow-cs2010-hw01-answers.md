@@ -90,9 +90,9 @@ so 2d is the answer
 15 is f
 so ff is the answer
 **Question 11:  Convert the hexadecimal number 2F to decimal.**
-
+2*16+15=47
 **Question 12:  Convert the hexadecimal number A3 to decimal.**
-
+10*16+3=163
 **Question 13:  Convert the decimal number 45 to octal.**
 
 **Question 14:  Convert the decimal number 100 to octal.**
