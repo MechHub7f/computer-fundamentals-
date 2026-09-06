@@ -104,7 +104,7 @@ so the answer is 5
 **Question 15:  Convert the octal number 37 to decimal.**
 (3*8)+7=31
 **Question 16:  Convert the octal number 74 to decimal.**
-
+(7*8)+4=60
 **Question 17:  Convert the binary number 11010111 to hexadecimal.**
 1 1
 2 1
