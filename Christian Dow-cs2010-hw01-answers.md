@@ -130,14 +130,14 @@ d7
 156-(9*16)=11
 9b
 **Question 19:  Convert the hexadecimal number 3D to binary.**
-1
-2
-4
-8
-16
-32
+1 1
+2 0
+4 1 
+8  1
+16 1
+32 1
 64
-
+(3*16)+13=61
 **Question 20:  Convert the hexadecimal number 9A to binary.**
 1
 2
