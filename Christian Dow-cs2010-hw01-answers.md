@@ -37,10 +37,10 @@ out the largest power of two.**1100
 3/2=1 remainder of 1
 1/2=0 remainder of 1
 **Question 4:  Convert the decimal number 45 to binary by repeatedly subtracting out the largest power of two.**
-42=32+8+2
-1   0
-2   1
-4   0
+45=32+8+4+1
+1   1
+2   0
+4   1
 8   1
 16  0
 32  1 
