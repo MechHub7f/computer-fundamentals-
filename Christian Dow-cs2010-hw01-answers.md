@@ -82,9 +82,13 @@ out the largest power of two.**1100
 64
 32+16+8+1= 57
 **Question 9:  Convert the decimal number 45 to hexadecimal.**
-
+45-(2*16)=13
+13 to hex is is d
+so 2d is the answer
 **Question 10:  Convert the decimal number 255 to hexadecimal.**
-
+255-(15*16)=15
+15 is f
+so ff is the answer
 **Question 11:  Convert the hexadecimal number 2F to decimal.**
 
 **Question 12:  Convert the hexadecimal number A3 to decimal.**
