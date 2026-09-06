@@ -149,11 +149,12 @@ d7
 128 1
 (9*16)+10=154
 **Question 21:  Convert the binary number 100111 to base 7.**
-1
-2
-4
-8
-16
-32
+1 2
+2 1
+4 1
+8 0
+16 0
+32 1
 64
-
+binary is 39
+39/(5^7)=
