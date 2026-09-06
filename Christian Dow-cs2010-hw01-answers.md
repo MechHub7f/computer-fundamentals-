@@ -94,9 +94,13 @@ so ff is the answer
 **Question 12:  Convert the hexadecimal number A3 to decimal.**
 10*16+3=163
 **Question 13:  Convert the decimal number 45 to octal.**
-
+45/(8^1)=5
+5/(8^0)=5
+so the answer is 5
 **Question 14:  Convert the decimal number 100 to octal.**
-
+100/(8^2)=1 remainder 36
+36/(8^1)=4 remander of 4
+4/(8^0)=4
 **Question 15:  Convert the octal number 37 to decimal.**
 
 **Question 16:  Convert the octal number 74 to decimal.**
@@ -111,6 +115,7 @@ so ff is the answer
 64 1
 128 1
 128+64+16+4+2+1=215
+
 **Question 18:  Convert the binary number 10011100 to hexadecimal.**
 1 0
 2 0
