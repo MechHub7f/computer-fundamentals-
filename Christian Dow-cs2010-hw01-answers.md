@@ -102,7 +102,7 @@ so the answer is 5
 36/(8^1)=4 remander of 4
 4/(8^0)=4
 **Question 15:  Convert the octal number 37 to decimal.**
-
+(3*8)+7=31
 **Question 16:  Convert the octal number 74 to decimal.**
 
 **Question 17:  Convert the binary number 11010111 to hexadecimal.**
