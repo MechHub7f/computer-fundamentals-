@@ -139,14 +139,15 @@ d7
 64
 (3*16)+13=61
 **Question 20:  Convert the hexadecimal number 9A to binary.**
-1
-2
-4
-8
-16
-32
-64
-
+1 0
+2 1
+4 0
+8 1
+16 1
+32 0
+64 0
+128 1
+(9*16)+10=154
 **Question 21:  Convert the binary number 100111 to base 7.**
 1
 2
