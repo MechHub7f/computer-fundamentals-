@@ -127,8 +127,8 @@ d7
 64 0
 128 1
 128+16+8+4=156
-156-(9*16)=11
-9b
+156-(9*16)=12
+9c
 **Question 19:  Convert the hexadecimal number 3D to binary.**
 1 1
 2 0
