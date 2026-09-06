@@ -96,7 +96,7 @@ so ff is the answer
 **Question 13:  Convert the decimal number 45 to octal.**
 45/(8^1)=5
 5/(8^0)=5
-so the answer is 5
+so the answer is 55
 **Question 14:  Convert the decimal number 100 to octal.**
 100/(8^2)=1 remainder 36
 36/(8^1)=4 remander of 4
