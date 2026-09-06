@@ -115,7 +115,8 @@ so the answer is 5
 64 1
 128 1
 128+64+16+4+2+1=215
-
+215-(13*16)=7
+d7
 **Question 18:  Convert the binary number 10011100 to hexadecimal.**
 1 0
 2 0
@@ -126,6 +127,8 @@ so the answer is 5
 64 0
 128 1
 128+16+8+4=156
+156-(9*16)=11
+9b
 **Question 19:  Convert the hexadecimal number 3D to binary.**
 1
 2
