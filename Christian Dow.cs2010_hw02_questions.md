@@ -29,7 +29,7 @@ Answer: 110.01
 3/2=1 r    1
 1/2=0 r    1
 0/2 =0 r   0
-
+011101
 **Question 2: Convert the decimal number 29 to hexadecimal.**
 29-16=13
 13= d
@@ -48,7 +48,7 @@ answer is 1d
 c=12
 c=1100
 3=11
-c3=1111
+c3=11000011
 *For the next few questions, recall two's complement. With a fixed number of
 bits, a negative value is represented by flipping every bit of the positive
 value and then adding 1. For example, -2 in 4 bits is: +2 = 0010, flip to
@@ -56,7 +56,8 @@ value and then adding 1. For example, -2 in 4 bits is: +2 = 0010, flip to
 
 **Question 5: Convert the decimal number -6 into 4-bit two's complement binary.**
 0110 positive
-1011 negative
+1001
+ 1010 negative
 
 **Question 6: The 4-bit two's complement number 1101 represents which decimal
 number?**
@@ -81,6 +82,7 @@ multiplication.**
 .375*2= 0
 .75*2= 1
 .5*2=  1
+.011
 **Question 11: Convert the decimal number 47.25 to hexadecimal. To get the
 fractional digits, repeatedly multiply the fractional part by 16.**
 2f.4
