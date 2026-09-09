@@ -23,36 +23,67 @@ Take the digits in order: .01
 Answer: 110.01
 
 **Question 1: Convert the decimal number 29 to binary using repeated division.**
+29/2 =14 r 1
+14/2=7 r   0
+7/2=3 r    1
+3/2=1 r    1
+1/2=0 r    1
+0/2 =0 r   0
 
 **Question 2: Convert the decimal number 29 to hexadecimal.**
-
+29-16=13
+13= d
+answer is 1d
 **Question 3: Convert the binary number 1101101 to decimal.**
-
+1   1
+2   0
+4   1
+8   1
+16  0
+32  1
+64  1
+128
+64+32+8+4+1=109
 **Question 4: Convert the hexadecimal number C3 to binary.**
-
+c=12
+c=1100
+3=11
+c3=1111
 *For the next few questions, recall two's complement. With a fixed number of
 bits, a negative value is represented by flipping every bit of the positive
 value and then adding 1. For example, -2 in 4 bits is: +2 = 0010, flip to
 1101, add 1 to get 1110.*
 
 **Question 5: Convert the decimal number -6 into 4-bit two's complement binary.**
+0110 positive
+1011 negative
 
 **Question 6: The 4-bit two's complement number 1101 represents which decimal
 number?**
-
+1101
+sub1
+ 1
+1100
+-3
 **Question 7: Convert the decimal number -25 into 8-bit two's complement
 binary.**
-
+100110
+then add one
+11100111
 **Question 8: In 4-bit two's complement, the pattern 1000 is the smallest value
 and 0111 is the largest. What decimal values are they?**
-
+smalles is -8
+biggest is 7
 **Question 9: Convert the binary number 101.101 to decimal.**
-
+5.625
 **Question 10: Convert the decimal number 0.375 to binary using repeated
 multiplication.**
-
+.375*2= 0
+.75*2= 1
+.5*2=  1
 **Question 11: Convert the decimal number 47.25 to hexadecimal. To get the
 fractional digits, repeatedly multiply the fractional part by 16.**
+2f.4
 
 *For the last questions, use the single-precision IEEE 754 layout: 1 sign bit,
 8 exponent bits (biased, so the stored exponent is the real exponent plus 127),
@@ -64,6 +95,7 @@ it represents 1.0 x 2^0 = 1.0.*
 **Question 12: Encode the decimal number 6.5 as a single-precision IEEE 754
 value. Give your answer as 32 bits, with spaces between the sign, exponent, and
 fraction fields.**
+0 00000000 00000000000000000000000
 
 **Question 13: Decode the single-precision IEEE 754 value
 1 10000010 10000000000000000000000 to decimal.**
