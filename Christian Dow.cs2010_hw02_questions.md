@@ -28,8 +28,7 @@ Answer: 110.01
 7/2=3 r    1
 3/2=1 r    1
 1/2=0 r    1
-0/2 =0 r   0
-011101
+11101
 **Question 2: Convert the decimal number 29 to hexadecimal.**
 29-16=13
 13= d
@@ -109,9 +108,16 @@ remove the 1
 1.1
 1100
 =
-12
+-12
 **Question 14: Decode the single-precision IEEE 754 value
 0 01111110 00000000000000000000000 to decimal.**
-
+   exp-1     imp1
+.5
 **Question 15: Encode the decimal number 20.5 as a single-precision IEEE 754
 value, again giving the full 32 bits with spaces between the fields.**
+10100.1
+1.01001 x2^4
+remove the 1
+.01001
+4+127=131
+0 10000011 01001000000000000000000
