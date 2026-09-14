@@ -97,11 +97,19 @@ it represents 1.0 x 2^0 = 1.0.*
 **Question 12: Encode the decimal number 6.5 as a single-precision IEEE 754
 value. Give your answer as 32 bits, with spaces between the sign, exponent, and
 fraction fields.**
-0 00000000 00000000000000000000000
+110.1
+1.101 x^2
+remove the 1
+.101
+0 10000001 10100000000000000000000
 
 **Question 13: Decode the single-precision IEEE 754 value
 1 10000010 10000000000000000000000 to decimal.**
-
+-1    exp3    1.1x2^3
+1.1
+1100
+=
+12
 **Question 14: Decode the single-precision IEEE 754 value
 0 01111110 00000000000000000000000 to decimal.**
 
