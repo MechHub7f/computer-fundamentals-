@@ -3,7 +3,7 @@ bandit7/.bash_logout
 bandit7/data.txt
 bandit7/.profile
 bandit7/.bashrc
-
+The way I made it to each level was googeling the right command and then seeing how the command could be manipulated
 
 
 
