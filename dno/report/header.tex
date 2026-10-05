@@ -1,0 +1,18 @@
+\usepackage{longtable,booktabs,array,etoolbox}
+\usepackage{float}
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\bottomfraction}{0.95}
+\renewcommand{\textfraction}{0.06}
+\renewcommand{\floatpagefraction}{0.9}
+\setcounter{topnumber}{3}
+\setcounter{bottomnumber}{3}
+\setcounter{totalnumber}{4}
+\AtBeginEnvironment{longtable}{\footnotesize}
+\setlength{\LTpre}{5pt}
+\setlength{\LTpost}{5pt}
+\setlength{\parskip}{2pt}
+\setlength{\abovedisplayskip}{4pt}
+\setlength{\belowdisplayskip}{4pt}
+\AtBeginEnvironment{thebibliography}{\small\setlength{\itemsep}{1pt}\setlength{\parskip}{0pt}}
+\AtBeginEnvironment{CSLReferences}{\small\setlength{\parskip}{0pt}\setlength{\itemsep}{0pt}\setlength{\parsep}{0pt}}
+\renewcommand{\refname}{\normalsize References}
