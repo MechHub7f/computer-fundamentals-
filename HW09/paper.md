@@ -32,7 +32,7 @@ VOC quotations must not be confused with dividend yields. Petram explains that t
 
 The model uses 100 units of nominal capital for each holding. For Britain, the opening purchase costs 150 units, annual dividends are eight units in each year from 1726 through 1750, and sale proceeds are 200 units in 1750. Total dividends are therefore 200 units. Terminal wealth is 400 units, giving a profit of 250 on the initial 150: a **166.7% cumulative return**.
 
-For the VOC, the opening proxy is 642.58 and the 1750 sale proxy is 557.39. Summing the dataset’s dividend-rate entries for 1726–1750 and applying them to 100 nominal units gives 490 units. Terminal wealth is consequently 1,047.39, a profit of approximately 404.81, or **63.0%**. Dividends turn the price decline into a positive cumulative result. The dataset’s separate “Dividendspayable” balance-sheet field is not used as the investor’s dividend [D01].
+For the VOC, the opening proxy is 642.58 and the 1750 sale proxy is 557.39. Summing the dataset’s dividend-rate entries for 1726–1750 and applying them to 100 nominal units gives 490 units. Terminal wealth is consequently 1,047.39, a profit of approximately 404.81, or **63.0%**. Dividends turn the price decline into a positive cumulative result. The dataset’s seperate “Dividendspayable” balance-sheet field is not used as the investor’s dividend [D01].
 
 The sale-window comparison includes the same dividend convention at every exit:
 

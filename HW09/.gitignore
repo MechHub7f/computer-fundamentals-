@@ -10,7 +10,7 @@ __pycache__/
 *.swp
 .DS_Store
 
-# Downloaded sources and full-text caches are reproducible from manifest.json.
+# Local research caches are excluded from the submission repository.
 # Keep originals local; avoid redistributing complete copyrighted works.
 sources/originals/
 notes/extracted/
