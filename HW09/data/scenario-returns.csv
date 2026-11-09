@@ -1,0 +1,7 @@
+exit_year,eic_input_kind,eic_purchase,eic_exit,eic_cumulative_dividends,eic_return_pct,voc_input_kind,voc_purchase_proxy,voc_exit_proxy,voc_cumulative_dividends_assumed_nominal,voc_proxy_return_pct
+1745,invented_scenario,150.0,170.0,160.0,120.0,annual_average_proxy_not_execution_quote,642.58,449.2291666666667,380.0,29.046837229086915
+1746,invented_scenario,150.0,160.0,168.0,118.66666666666667,annual_average_proxy_not_execution_quote,642.58,420.2083333333333,400.0,27.642991274756948
+1747,invented_scenario,150.0,165.0,176.0,127.33333333333333,annual_average_proxy_not_execution_quote,642.58,404.2916666666667,420.0,28.278450413437504
+1748,invented_scenario,150.0,180.0,184.0,142.66666666666666,annual_average_proxy_not_execution_quote,642.58,421.7916666666667,440.0,34.11429964621786
+1749,invented_scenario,150.0,190.0,192.0,154.66666666666666,annual_average_proxy_not_execution_quote,642.58,463.4166666666667,465.0,44.482658449790954
+1750,invented_scenario,150.0,200.0,200.0,166.66666666666666,annual_average_proxy_not_execution_quote,642.58,557.3913043478261,490.0,62.99780639730865
