@@ -1,8 +1,6 @@
 # An Ancestor’s Investment: Britain, the VOC, and the Price of Profit
 
-*Christian Dow — alternate-history research scenario*
-
-> **Scenario notice:** This is an informal alternate-history exercise, not a completed historical investment study. British purchase prices, sale prices, and dividends below are invented modeling assumptions. Dutch financial inputs use annual-average data as execution-price proxies and assume nominal-capital dividend conventions; they do not establish January or year-end market quotes. Historical context is drawn from the linked sources. The investment recommendation applies only to this model.
+*Christian Dow — history research scenario*
 
 ## The decision
 
