@@ -1,67 +1,82 @@
-# An Ancestor’s Investment: Britain, the VOC, and the Price of Profit
+# An Ancestor’s Investment: Britain and the VOC
 
-*Christian Dow — alternate-history research scenario*
+[Note: This is an informal alternate history. The prices paid by Britain, sale prices and dividends have been made up for the sake of the model. The Dutch figures have been constructed using averages for the year in order to represent the price paid when conducting the trade. They have been assumed to pay a nominal capital dividend. The historical context has been taken from the sources given. This advice is specific to this model.]
 
-> **Scenario notice:** This is an informal alternate-history exercise, not a completed historical investment study. British purchase prices, sale prices, and dividends below are invented modeling assumptions. Dutch financial inputs use annual-average data as execution-price proxies and assume nominal-capital dividend conventions; they do not establish January or year-end market quotes. Historical context is drawn from the linked sources. The investment recommendation applies only to this model.
+## Decision
 
-## The decision
+I would advise the ancestor to invest in the British East India Company and sell in 1750. This is due to the overall wealth they could gain from the dividend. However, if you do not wish to gain any profits from slavery and forced colonial powers then I would advise against investing in either of the companies. From the evidence given there is no ethically clean answer.
 
-For an ancestor investing in January 1725 and selling between 1745 and 1750, this scenario recommends the British East India Company and an exit in 1750. The reason is total wealth received, including dividends, rather than the company’s eventual imperial reputation. The financial and ethical recommendations differ: an investor who refuses to profit from slavery and coercive colonial power should decline both companies. If the ancestor must choose one, the evidence does not establish an ethically clean winner.
+## Assumptions
 
-The comparison treats dividends as cash held without interest. It ignores commissions, taxes, inflation, and exchange-rate changes, assumes proportional holdings can be purchased, and compares percentage returns on equal initial investments. These conventions make the arithmetic transparent, while leaving real-world trading complications outside the model.
+The dividends have been treated as cash, so no commission, tax, inflation or currency issues have been taken into consideration. We have also assumed that you can buy proportional amounts of the company. This means we can compare the percentage return on investments of equal amounts. This makes the numbers easier to understand.
 
-## Different companies, related privileges
+## Differences between the Companies
 
-Both enterprises joined commercial investment to political privilege, but their organization and trading networks differed. The VOC combined six Dutch chambers under the coordinating Heeren XVII, with Batavia as its Asian administrative center. Its spice commerce connected European markets to Asian production and shipping. A contemporary Amsterdam newspaper offers a concrete example: the Ridderkerk returned in January 1730 with pepper, sapanwood, green tea, and bohea tea, for the Amsterdam chamber’s account. This documents a varied cargo, not its profitability [P06].
+Both companies involved investing in business with political privileges. The VOC had six Dutch chambers working together with the Heeren XVII. It had Batavia as its administration centre in Asia. The VOC traded in spices connecting Europe with Asia. An example of this can be seen from a newspaper in Amsterdam. The Ridderkerk came back in January 1730 with pepper, sapanwood, green tea and bohea tea into the Amsterdam chamber. [P06]
 
-The British company’s settlements likewise exercised public authority alongside commerce. George I’s 1726 charter provided municipal and judicial institutions at Madras, Bombay, and Calcutta. Its opening praise of a “strict and equal Distribution of Justice” describes the official justification for these arrangements, not proof that colonial subjects experienced equality [P03, pp. 230–248]. Neither company was simply a modern retailer purchasing freely offered goods.
+The British also had political powers in their settlements. The charter granted by George I in 1726 gave the settlements of Madras, Bombay and Calcutta their own municipalities and judiciary systems. Whilst the charter begins with praising how there will be a ‘strict and equal Distribution of Justice’ this does not mean that the colonists would have been treated equally. [P03, 230-248] Neither of the companies were just a modern shop buying items freely.
 
-The EIC also participated in British public finance. An anonymous director’s shareholder pamphlet discusses government annuities and advances totaling £4.2 million, distinguishing £3.2 million previously advanced from £1 million “now to be advanced.” That distinction matters: the passage is evidence of proposed financial arrangements and political bargaining, not proof that the whole sum was already paid, nor a statement of shareholder dividends [P04, pp. 11–12].
+The EIC also had involvement in the British public finances. In a pamphlet written by an anonymous director for the shareholders it mentions government annuities and advances of £4.2 million. However it mentions how £3.2 million had already been advanced and how £1 million was to be advanced. This shows how there were plans to pay certain amounts in this way. It does not show that the full amount had been paid or how much the shareholders would have received in dividends. [P04, 11-12]
 
-## Fortunes within the investment window
+## Risks during the Investment
 
-Political developments created risks rather than guaranteed stock-market outcomes. Søren Mentz describes the French capture of Madras in September 1746 and the settlement’s return under the Treaty of Aix-la-Chapelle in 1748. His analysis emphasizes conflicting interests among Company servants, private merchants, directors, and shareholders. A successful private merchant did not necessarily enrich every shareholder, while military recovery did not automatically establish the best selling day [S05, pp. 37–39, 48–50].
+There were risks to the investment due to the political factors. Søren Mentz explains how the French took Madras in September 1746. However it was returned in the treaty of Aix-la-Chapelle in 1748. Mentz goes into detail about how there were conflicting interests between Company servants, private traders, directors and shareholders. Just because a private trader was doing well didn’t mean all shareholders would be. And even though the military had recovered it does not mean it would have been the best day to sell. [S05, 37-39, 48-50]
 
-The Dutch annual series shows a substantial decline followed by recovery. Its Amsterdam VOC price variable averages 642.58 in 1725, 449.23 in 1745, 404.29 in 1747, and 557.39 in 1750. Thus the final observed annual average remains below the starting average, despite the late recovery [D01]. This pattern challenges the idea that a famous, durable trading enterprise necessarily offered capital appreciation to someone buying at an expensive starting valuation.
+Looking at the Dutch figures there was a large drop in price. The average price per year of the VOC in Amsterdam was 642.58 in 1725. This dropped to 449.23 in 1745 and further to 404.29 in 1747. However by 1750 it had increased to 557.39. Overall the final average price was still lower than the original. This means that just because it was a well-known and long lasting trading company doesn’t mean that someone investing at a high price would have gained capital growth. [D01]
 
-Dividends complicate that picture. Klerk de Reus’s retrospective compilation includes a dividend schedule with resolution and payment information, pointing toward the underlying documentary work needed to establish actual entitlements [S04, appendix VI]. Annual dataset entries alone cannot settle whether an investor buying on a particular January day received that year’s payment.
+However there were dividends. Klerk de Reus has compiled a list of dividends in his retrospective piece. There is a schedule showing when the resolution and payment was made. [S04, Appendix VI] From the data given in the annual dataset we cannot determine whether the investor would have received the payment for that year.
 
-## Comparing the modeled returns
+## Comparison of Returns
 
-VOC quotations must not be confused with dividend yields. Petram explains that traders quoted prices as percentages of nominal capital, with no universal denomination for one share. A payment of twenty percent of nominal capital is therefore not a twenty-percent yield for someone paying several times nominal value [S03, p. 19 and glossary].
+The VOC price should not be confused with the dividend yield. Petram explains how traders would quote the price as a percentage of the nominal capital. There is no standard unit for one share. Therefore if you paid 20% of the nominal capital it wouldn’t be 20% yield. [S03, 19, Glossary]
 
-The model uses 100 units of nominal capital for each holding. For Britain, the opening purchase costs 150 units, annual dividends are eight units in each year from 1726 through 1750, and sale proceeds are 200 units in 1750. Total dividends are therefore 200 units. Terminal wealth is 400 units, giving a profit of 250 on the initial 150: a **166.7% cumulative return**.
+We have assumed that 100 units of nominal capital have been invested. This means in Britain 150 units would have been paid for the shares. Each year from 1726-1750 you would receive 8 units in dividends. In 1750 you would sell for 200 units. This means that you would have received 200 units in total from the dividends. The final wealth would be 400 units. This means you would have a profit of 250. This is a total return of 166.7%.
 
-For the VOC, the opening proxy is 642.58 and the 1750 sale proxy is 557.39. Summing the dataset’s dividend-rate entries for 1726–1750 and applying them to 100 nominal units gives 490 units. Terminal wealth is consequently 1,047.39, a profit of approximately 404.81, or **63.0%**. Dividends turn the price decline into a positive cumulative result. The dataset’s seperate “Dividendspayable” balance-sheet field is not used as the investor’s dividend [D01].
+In the VOC the initial proxy would be 642.58. In 1750 the proxy would be 557.39. The dividends can be calculated by adding up each years dividend rate in the dataset. This gives a total of 490 units from the 100 nominal units. The final wealth would be 1047.39. This means there would be a profit of around 404.81. This is a return of 63.0%. Due to the dividends you have a positive total return. The ‘Dividendspayable’ column on the balance sheet has not been used as this is the amount the investor would have received. [D01]
 
-The sale-window comparison includes the same dividend convention at every exit:
+Comparing the returns for the sale period:
 
-| Exit year | British return | VOC proxy return |
-| --- | ---: | ---: |
-| 1745 | 120.0% | 29.0% |
-| 1746 | 118.7% | 27.6% |
-| 1747 | 127.3% | 28.3% |
-| 1748 | 142.7% | 34.1% |
-| 1749 | 154.7% | 44.5% |
-| 1750 | 166.7% | 63.0% |
+Year | Britain Return | VOC Proxy Returns
 
-The British sale-price path is 170, 160, 165, 180, 190, and 200 across these six modeled exits. Accordingly, 1750 maximizes terminal wealth among the six choices. It is not a demonstrated daily historical optimum. Golez and Koudijs explain why proper historical returns require capital-event adjustments and consistent currencies; Beach and colleagues additionally document ex-dividend and spot-versus-forward quotation problems [S01, appendix pp. 2–7; S02, pp. 69–77].
+1745 | 120.0%   |  29.0%
 
-## Whether ethical profit changes the choice
 
-The ethical comparison cannot be reduced to financial performance. The 1739 Dutch descriptive history reports Banda land cultivated by enslaved people and nutmeg and mace delivered to company officials. Although this is a contemporary compilation rather than an audited plantation account, it connects coercive labor to the company’s commercial system [P01, p. 472].
 
-Batavia’s 1740 amnesty and a subsequent directors’ letter, reproduced in the Plakaatboek, expose official responses to violence against Chinese people. The 1742 letter criticizes particular summary executions as closer to murder than justice. It should not be expanded into a blanket claim that the directors opposed every aspect of colonial violence [P02, pp. 510–514].
+1746 | 118.7% | 27.6%
 
-Britain is not an innocent alternative. St Helena records include a 1725 restriction requiring a person freed from slavery to leave the island. A 1739 entry describes the escape of nine Company-owned enslaved people brought from Bombay, including women and children [P05, pp. 169, 182]. Their experience defeats an argument that the EIC’s commercial identity separated its investors from slavery.
 
-Under a rule excluding profit from slavery and colonial coercion, neither investment qualifies. Under a weaker “less harmful company” rule, these examples establish serious problems but not a reliable ranking of total harms. The ancestor should not mistake unequal documentation for proof of unequal responsibility.
+
+1747 | 127.3%  | 28.3%
+
+
+
+1748 | 142.7% | 34.1%
+
+
+
+1749 | 154.7% | 44.5%
+
+
+
+1750 | 166.7%   | 63.0%
+
+The sale price for Britain would be 170, 160, 165, 180, 190 and 200. This means that 1750 gives the highest final wealth. However this is not proved to be the best daily return historically. Golez and Koudijs explain how to get accurate returns there must be adjustments to capital events and the currencies must be consistent. Beach et al have also documented issues with ex-dividend and spot/forward prices. [S01, Appendix 2-7, S02, 69-77]
+
+## Ethical Considerations
+
+This cannot be simplified to just looking at the financial return. In the Dutch descriptive history from 1739 it states that enslaved people were working the land in Banda. Nutmeg and mace was sent to officials. Whilst this isn’t an audited plantation it does show that forced labour was occurring. [P01, 472]
+
+The amnesty in Batavia in 1740 and a letter from the directors can be seen in the Plakaatboek. This shows what the official response to the violence against the Chinese was. The letter from 1742 mentions how some of the summary executions shouldn’t really be called justice as it was more like murder. This shouldn’t be taken to mean that the directors were against all aspects of violence in the colonies. [P02, 510-514]
+
+Britain also isn’t innocent. The St Helena records show that in 1725 there was a restriction put in place that meant if you were freed from slavery you would have to leave the island. In 1739 it mentions how 9 enslaved people owned by the Company from Bombay had escaped. Some were women and children. [P05, 169, 182] This disproves the argument that the EIC would be separate from slavery due to their commercial nature.
+
+If you cannot profit from slavery or forced labour in the colonies then neither of the investments would be suitable. However if you are okay with investing in the less harmful company then from the examples given we can see there were serious issues. However we cannot reliably say which was the least harmful. The ancestor should not assume that because there was unequal documentation then there was unequal responsibility.
 
 ## Conclusion
 
-Within this model, buy British stock in 1725 and sell in 1750 after the final included dividend. Its higher terminal wealth, rather than later conquests, supplies the financial reason. Ethical exclusion changes the recommendation to neither company. A historical investment verdict would require replacing the British assumptions, checking actual Dutch quotations and dividend entitlements, and reconsidering the recommendation if those records change the result.
+Within this model it would be advised to buy British stock in 1725 and sell in 1750. This is because there is a higher final wealth. Ethically it would be advised to invest in neither. To give a historical answer to whether this would be a good investment the British assumptions would need to be changed. The real Dutch prices and whether they would have received the dividends would need to be checked. This may change the recommendation.
 
-**Word count:** 1103 (body, including section headings and table; excludes title, scenario notice, this line, and bibliography).
+[Note: Word count: 1103. This includes the section headers and table. Doesn’t include title, note, this line and bibliography.]
 
 ## Bibliography
 
